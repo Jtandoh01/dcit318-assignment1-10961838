@@ -1,12 +1,18 @@
+﻿using System;
+
 class GradeCalculator
 {
     static void Main()
     {
         int grade = -1;
+        
+        // Loop until a valid grade between 0 and 100 is entered
         while (grade < 0 || grade > 100)
         {
             Console.Write("Enter a numerical grade between 0 and 100: ");
             string input = Console.ReadLine();
+            
+            // Validate the input and parse it to an integer
             if (int.TryParse(input, out grade) && grade >= 0 && grade <= 100)
             {
                 break;
@@ -17,6 +23,7 @@ class GradeCalculator
             }
         }
 
+        // Determine and display the letter grade
         if (grade >= 90)
         {
             Console.WriteLine("Grade: A");

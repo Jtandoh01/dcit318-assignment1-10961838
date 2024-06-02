@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\dcit318-assignment1-10961838.csproj": {}
+    "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\GradeCalculator\\GradeCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\dcit318-assignment1-10961838.csproj": {
+    "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\GradeCalculator\\GradeCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\dcit318-assignment1-10961838.csproj",
-        "projectName": "dcit318-assignment1-10961838",
-        "projectPath": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\dcit318-assignment1-10961838.csproj",
+        "projectUniqueName": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\GradeCalculator\\GradeCalculator.csproj",
+        "projectName": "GradeCalculator",
+        "projectPath": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\GradeCalculator\\GradeCalculator.csproj",
         "packagesPath": "C:\\Users\\JOHNSON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\obj\\",
+        "outputPath": "C:\\Users\\JOHNSON\\Desktop\\p3\\dcit318-assignment1-10961838\\GradeCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOHNSON\\AppData\\Roaming\\NuGet\\NuGet.Config"
